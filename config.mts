@@ -18,7 +18,7 @@ function org() {
     },
     themeConfig: {
       nav: [
-        { text: 'Home', link: '/' },
+        { text: 'Home', link: 'diagmindtw.com' },
         { text: 'Examples', link: '/markdown-examples' }
       ],
       sidebar: [
@@ -26,7 +26,7 @@ function org() {
     "text": "1.md",
     "link": "/1.md"
   },
-], // Placeholder for fetched data
+], 
       socialLinks: [
         { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
       ]
