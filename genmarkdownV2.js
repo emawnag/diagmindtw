@@ -11,7 +11,7 @@ const CONFIG_PATH = './config.mts';
 import fetch from 'node-fetch';
 
 const API_URL = 'https://diagmindtw.com/sql_read_api/docxFrontEndRender2sqlRead.php';
-const API_TOKEN = "$sql_api_key$";
+const API_TOKEN = "${{ secrets.sql_api_key }}";
 
 async function fetchTopics() {
   // 先取得總數
