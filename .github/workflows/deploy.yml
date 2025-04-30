@@ -22,10 +22,12 @@ jobs:
         run: npm install
 
       - name: Prepare VitePress config
+        env: # Or as an environment variable
+          SQL_API_KEY: ${{ secrets.SQL_API_KEY }}
         run: |
           mkdir -p .vitepress
           rm *.md          
-          node genmarkdownV2.js ${{ secrets.SQL_API_KEY }}
+          node genmarkdownV2.js
           cp config.mts .vitepress/config.mts
 
       - name: Build VitePress site

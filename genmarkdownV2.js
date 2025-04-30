@@ -11,13 +11,7 @@ const CONFIG_PATH = './config.mts';
 import fetch from 'node-fetch';
 
 const API_URL = 'https://diagmindtw.com/sql_read_api/docxFrontEndRender2sqlRead.php';
-// 允許從命令列參數取得 API token
-const API_TOKEN = process.argv[2];
-
-if (!API_TOKEN) {
-  console.error('請以命令列參數傳入 API token，例如: node genmarkdownV2.js <API_TOKEN>');
-  process.exit(1);
-}
+const API_TOKEN = process.env.SQL_API_KEY;
 
 async function fetchTopics() {
   // 先取得總數
