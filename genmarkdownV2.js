@@ -21,9 +21,9 @@ async function fetchTopics() {
       'X-Auth-Token': API_TOKEN
     }
   });
-  console.log('countRes:', countRes.body.json());
-  if (!countRes.ok) throw new Error('Failed to fetch topic count');
   const countData = await countRes.json();
+  console.log('countRes:', countData);
+  if (!countRes.ok) throw new Error('Failed to fetch topic count');
   const count = countData.count;
   if (typeof count !== 'number' || count < 1) throw new Error('Invalid topic count');
 
