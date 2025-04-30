@@ -22,10 +22,11 @@ async function fetchTopics() {
     }
   });
   let countData;
+  let rawText;
   try {
-    countData = await countRes.json();
+    rawText = await countRes.text();
+    countData = JSON.parse(rawText);
   } catch (e) {
-    const rawText = await countRes.text();
     console.error('Failed to parse JSON:', e);
     console.error('Raw response:', rawText);
     throw e;
