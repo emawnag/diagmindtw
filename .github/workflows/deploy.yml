@@ -9,7 +9,7 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     env:
-      SQL_API_KEY: ${{ secrets.sql_api_key }}
+      SQL_API_KEY: ${{ secrets.SQL_API_KEY }}
 
     steps:
       - name: Checkout repository
