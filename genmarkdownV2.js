@@ -11,7 +11,7 @@ const CONFIG_PATH = './config.mts';
 import fetch from 'node-fetch';
 
 const API_URL = 'https://diagmindtw.com/sql_read_api/docxFrontEndRender2sqlRead.php';
-const API_TOKEN = "process.env.SQL_API_KEY";
+const API_TOKEN = process.env.SQL_API_KEY;
 
 async function fetchTopics() {
   // 先取得總數
@@ -22,7 +22,7 @@ async function fetchTopics() {
     }
   });
   const countData = await countRes.json();
-  console.log('countRes:', countData);
+  //console.log('countRes:', countData);
   if (!countRes.ok) throw new Error('Failed to fetch topic count');
   const count = countData.count;
   if (typeof count !== 'number' || count < 1) throw new Error('Invalid topic count');
