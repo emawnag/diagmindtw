@@ -26,9 +26,7 @@ jobs:
       - name: Prepare VitePress config
         run: |
           mkdir -p .vitepress
-          rm *.md
-          sed -i 's|const API_TOKEN = "\$sql_api_key\$";|const API_TOKEN = "${{ secrets.sql_api_key }}";|' genmarkdownV2.js
-          
+          rm *.md          
           node genmarkdownV2.js
           cp config.mts .vitepress/config.mts
 
