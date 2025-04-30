@@ -29,6 +29,9 @@ jobs:
       - name: Build VitePress site
         run: npx vitepress build
 
+      - name: Copy CNAME for GitHub Pages
+        run: cp CNAME .vitepress/dist/CNAME
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

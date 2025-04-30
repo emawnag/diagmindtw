@@ -22,11 +22,11 @@ function org() {
         { text: 'Examples', link: '/markdown-examples' }
       ],
       sidebar: [
-  {
-    "text": "1.md",
-    "link": "/1.md"
-  },
-], 
+        {
+          "text": "1.md",
+          "link": "/1.md"
+        },
+      ],
       socialLinks: [
         { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
       ]
