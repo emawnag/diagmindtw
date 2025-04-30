@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,ae as o}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"大綱架構","description":"","frontmatter":{},"headers":[],"relativePath":"58.md","filePath":"58.md"}'),t={name:"58.md"};function s(h,a,l,n,d,p){return i(),r("div",null,a[0]||(a[0]=[o("",415)]))}const m=e(t,[["render",s]]);export{u as __pageData,m as default};

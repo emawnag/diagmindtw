@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as i}from"./chunks/framework.Dh1jimFm.js";const p=JSON.parse('{"title":"消化系統","description":"","frontmatter":{},"headers":[],"relativePath":"30.md","filePath":"30.md"}'),o={name:"30.md"};function n(l,a,h,s,d,c){return r(),t("div",null,a[0]||(a[0]=[i("",15)]))}const u=e(o,[["render",n]]);export{p as __pageData,u as default};

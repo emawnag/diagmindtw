@@ -1,0 +1,1 @@
+import{_ as e,c as i,o,ae as n}from"./chunks/framework.Dh1jimFm.js";const d=JSON.parse('{"title":"感染性皮膚病","description":"","frontmatter":{},"headers":[],"relativePath":"60.md","filePath":"60.md"}'),t={name:"60.md"};function l(r,a,p,s,h,c){return o(),i("div",null,a[0]||(a[0]=[n("",100)]))}const f=e(t,[["render",l]]);export{d as __pageData,f as default};

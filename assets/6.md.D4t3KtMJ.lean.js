@@ -1,0 +1,1 @@
+import{_ as e,c as p,o as i,ae as r}from"./chunks/framework.Dh1jimFm.js";const d=JSON.parse('{"title":"ACLS","description":"","frontmatter":{},"headers":[],"relativePath":"6.md","filePath":"6.md"}'),o={name:"6.md"};function l(t,a,n,s,h,c){return i(),p("div",null,a[0]||(a[0]=[r("",578)]))}const u=e(o,[["render",l]]);export{d as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as t,o,ae as i}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"靜脈血栓栓塞症（Venous Thromboembolism, VTE）","description":"","frontmatter":{},"headers":[],"relativePath":"15.md","filePath":"15.md"}'),r={name:"15.md"};function n(s,e,h,l,c,d){return o(),t("div",null,e[0]||(e[0]=[i("",7)]))}const p=a(r,[["render",n]]);export{u as __pageData,p as default};

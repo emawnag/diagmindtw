@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as l,ae as o}from"./chunks/framework.Dh1jimFm.js";const m=JSON.parse('{"title":"水泡疾病","description":"","frontmatter":{},"headers":[],"relativePath":"61.md","filePath":"61.md"}'),r={name:"61.md"};function t(s,a,p,n,h,u){return l(),i("div",null,a[0]||(a[0]=[o("",430)]))}const c=e(r,[["render",t]]);export{m as __pageData,c as default};

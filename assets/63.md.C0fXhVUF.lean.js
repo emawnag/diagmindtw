@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,ae as o}from"./chunks/framework.Dh1jimFm.js";const c=JSON.parse('{"title":"乾癬","description":"","frontmatter":{},"headers":[],"relativePath":"63.md","filePath":"63.md"}'),t={name:"63.md"};function n(l,a,h,p,s,u){return i(),r("div",null,a[0]||(a[0]=[o("",261)]))}const b=e(t,[["render",n]]);export{c as __pageData,b as default};

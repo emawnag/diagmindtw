@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,ae as t}from"./chunks/framework.Dh1jimFm.js";const c=JSON.parse('{"title":"新生兒呼吸相關疾病","description":"","frontmatter":{},"headers":[],"relativePath":"28.md","filePath":"28.md"}'),p={name:"28.md"};function n(o,a,l,h,s,d){return i(),r("div",null,a[0]||(a[0]=[t("",551)]))}const m=e(p,[["render",n]]);export{c as __pageData,m as default};

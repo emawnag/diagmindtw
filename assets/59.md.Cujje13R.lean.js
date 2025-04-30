@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as l,ae as t}from"./chunks/framework.Dh1jimFm.js";const p=JSON.parse('{"title":"皮膚科","description":"","frontmatter":{},"headers":[],"relativePath":"59.md","filePath":"59.md"}'),i={name:"59.md"};function s(o,a,n,c,m,u){return l(),r("div",null,a[0]||(a[0]=[t("",101)]))}const d=e(i,[["render",s]]);export{p as __pageData,d as default};

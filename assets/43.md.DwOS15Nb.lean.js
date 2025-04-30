@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n,ae as i}from"./chunks/framework.Dh1jimFm.js";const c=JSON.parse('{"title":"血管性疾病","description":"","frontmatter":{},"headers":[],"relativePath":"43.md","filePath":"43.md"}'),o={name:"43.md"};function r(s,a,l,h,m,_){return n(),t("div",null,a[0]||(a[0]=[i("",5)]))}const f=e(o,[["render",r]]);export{c as __pageData,f as default};

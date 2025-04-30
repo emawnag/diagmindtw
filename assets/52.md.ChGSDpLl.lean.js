@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,ae as i}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"陰道鏡","description":"","frontmatter":{},"headers":[],"relativePath":"52.md","filePath":"52.md"}'),r={name:"52.md"};function l(o,a,h,n,s,c){return t(),e("div",null,a[0]||(a[0]=[i("",70)]))}const P=p(r,[["render",l]]);export{u as __pageData,P as default};

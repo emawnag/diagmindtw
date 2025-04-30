@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,ae as r}from"./chunks/framework.Dh1jimFm.js";const d=JSON.parse('{"title":"發燒","description":"","frontmatter":{},"headers":[],"relativePath":"20.md","filePath":"20.md"}'),i={name:"20.md"};function n(l,p,o,h,s,u){return t(),a("div",null,p[0]||(p[0]=[r("",461)]))}const f=e(i,[["render",n]]);export{d as __pageData,f as default};

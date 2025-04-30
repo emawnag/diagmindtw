@@ -1,0 +1,1 @@
+import{_ as e,c as p,o as i,ae as r}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"心包疾病 Pericarditis disease","description":"","frontmatter":{},"headers":[],"relativePath":"12.md","filePath":"12.md"}'),t={name:"12.md"};function o(n,a,c,l,s,d){return i(),p("div",null,a[0]||(a[0]=[r("",561)]))}const m=e(t,[["render",o]]);export{u as __pageData,m as default};

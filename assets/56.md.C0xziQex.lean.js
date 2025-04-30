@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,ae as o}from"./chunks/framework.Dh1jimFm.js";const c=JSON.parse('{"title":"腹腔鏡","description":"","frontmatter":{},"headers":[],"relativePath":"56.md","filePath":"56.md"}'),t={name:"56.md"};function h(n,a,l,m,p,d){return i(),r("div",null,a[0]||(a[0]=[o("",193)]))}const u=e(t,[["render",h]]);export{c as __pageData,u as default};

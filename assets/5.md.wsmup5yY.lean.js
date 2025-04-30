@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,ae as i}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"心律不整","description":"","frontmatter":{},"headers":[],"relativePath":"5.md","filePath":"5.md"}'),o={name:"5.md"};function t(n,p,l,s,c,h){return r(),e("div",null,p[0]||(p[0]=[i("",684)]))}const m=a(o,[["render",t]]);export{u as __pageData,m as default};

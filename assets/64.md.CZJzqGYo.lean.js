@@ -1,0 +1,1 @@
+import{_ as e,c as l,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"眼科","description":"","frontmatter":{},"headers":[],"relativePath":"64.md","filePath":"64.md"}'),i={name:"64.md"};function n(t,a,c,s,m,d){return r(),l("div",null,a[0]||(a[0]=[o("",105)]))}const p=e(i,[["render",n]]);export{u as __pageData,p as default};

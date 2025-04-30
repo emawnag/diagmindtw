@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as l,ae as h}from"./chunks/framework.Dh1jimFm.js";const c=JSON.parse('{"title":"心臟基礎","description":"","frontmatter":{},"headers":[],"relativePath":"3.md","filePath":"3.md"}'),r={name:"3.md"};function t(i,a,o,s,d,n){return l(),e("div",null,a[0]||(a[0]=[h("",81)]))}const P=p(r,[["render",t]]);export{c as __pageData,P as default};

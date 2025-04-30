@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as r,ae as i}from"./chunks/framework.Dh1jimFm.js";const d=JSON.parse('{"title":"不孕症概論","description":"","frontmatter":{},"headers":[],"relativePath":"53.md","filePath":"53.md"}'),o={name:"53.md"};function n(p,e,l,s,h,c){return r(),t("div",null,e[0]||(e[0]=[i("",57)]))}const y=a(o,[["render",n]]);export{d as __pageData,y as default};

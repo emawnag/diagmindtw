@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as i,ae as t}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"高血壓","description":"","frontmatter":{},"headers":[],"relativePath":"9.md","filePath":"9.md"}'),n={name:"9.md"};function r(o,p,l,h,s,d){return i(),e("div",null,p[0]||(p[0]=[t("",459)]))}const m=a(n,[["render",r]]);export{u as __pageData,m as default};

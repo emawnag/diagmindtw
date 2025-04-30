@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as i,ae as o}from"./chunks/framework.Dh1jimFm.js";const _=JSON.parse('{"title":"肝膽道疾病","description":"","frontmatter":{},"headers":[],"relativePath":"39.md","filePath":"39.md"}'),r={name:"39.md"};function l(n,a,h,c,s,d){return i(),t("div",null,a[0]||(a[0]=[o("",9)]))}const u=e(r,[["render",l]]);export{_ as __pageData,u as default};

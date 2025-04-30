@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,ae as t}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"腫瘤學","description":"","frontmatter":{},"headers":[],"relativePath":"36.md","filePath":"36.md"}'),i={name:"36.md"};function l(m,a,n,s,h,c){return r(),o("div",null,a[0]||(a[0]=[t("",23)]))}const b=e(i,[["render",l]]);export{u as __pageData,b as default};

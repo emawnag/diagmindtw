@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as t,ae as r}from"./chunks/framework.Dh1jimFm.js";const m=JSON.parse('{"title":"高血脂","description":"","frontmatter":{},"headers":[],"relativePath":"8.md","filePath":"8.md"}'),l={name:"8.md"};function p(o,a,h,s,d,n){return t(),i("div",null,a[0]||(a[0]=[r("",381)]))}const L=e(l,[["render",p]]);export{m as __pageData,L as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const _=JSON.parse('{"title":"Aortic disease","description":"","frontmatter":{},"headers":[],"relativePath":"13.md","filePath":"13.md"}'),i={name:"13.md"};function d(s,a,h,l,n,c){return r(),t("div",null,a[0]||(a[0]=[o("",17)]))}const u=e(i,[["render",d]]);export{_ as __pageData,u as default};

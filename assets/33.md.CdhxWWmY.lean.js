@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const p=JSON.parse('{"title":"內分泌疾病","description":"","frontmatter":{},"headers":[],"relativePath":"33.md","filePath":"33.md"}'),l={name:"33.md"};function h(i,a,n,s,d,c){return r(),t("div",null,a[0]||(a[0]=[o("",15)]))}const m=e(l,[["render",h]]);export{p as __pageData,m as default};

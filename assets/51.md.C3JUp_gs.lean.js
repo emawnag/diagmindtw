@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,ae as p}from"./chunks/framework.Dh1jimFm.js";const m=JSON.parse('{"title":"外陰癌","description":"","frontmatter":{},"headers":[],"relativePath":"51.md","filePath":"51.md"}'),t={name:"51.md"};function o(l,a,n,h,s,c){return i(),r("div",null,a[0]||(a[0]=[p("",78)]))}const u=e(t,[["render",o]]);export{m as __pageData,u as default};

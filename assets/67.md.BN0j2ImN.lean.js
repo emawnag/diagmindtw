@@ -1,0 +1,1 @@
+import{_ as i,c as e,o as p,ae as l}from"./chunks/framework.Dh1jimFm.js";const d=JSON.parse('{"title":"結膜","description":"","frontmatter":{},"headers":[],"relativePath":"67.md","filePath":"67.md"}'),o={name:"67.md"};function r(n,a,t,c,s,h){return p(),e("div",null,a[0]||(a[0]=[l("",231)]))}const m=i(o,[["render",r]]);export{d as __pageData,m as default};

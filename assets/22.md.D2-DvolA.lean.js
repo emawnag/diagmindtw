@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,ae as t}from"./chunks/framework.Dh1jimFm.js";const p=JSON.parse('{"title":"Acute adomen","description":"","frontmatter":{},"headers":[],"relativePath":"22.md","filePath":"22.md"}'),o={name:"22.md"};function n(l,a,s,h,c,d){return i(),r("div",null,a[0]||(a[0]=[t("",180)]))}const b=e(o,[["render",n]]);export{p as __pageData,b as default};

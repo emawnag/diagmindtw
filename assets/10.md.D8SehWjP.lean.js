@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as i,ae as r}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"心衰竭","description":"","frontmatter":{},"headers":[],"relativePath":"10.md","filePath":"10.md"}'),o={name:"10.md"};function t(n,p,l,h,s,c){return i(),e("div",null,p[0]||(p[0]=[r("",785)]))}const f=a(o,[["render",t]]);export{u as __pageData,f as default};

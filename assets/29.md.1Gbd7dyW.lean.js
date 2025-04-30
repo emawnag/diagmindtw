@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const m=JSON.parse('{"title":"遺傳學","description":"","frontmatter":{},"headers":[],"relativePath":"29.md","filePath":"29.md"}'),n={name:"29.md"};function i(s,a,_,l,d,c){return r(),t("div",null,a[0]||(a[0]=[o("",4)]))}const f=e(n,[["render",i]]);export{m as __pageData,f as default};

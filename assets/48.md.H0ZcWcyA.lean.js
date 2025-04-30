@@ -1,0 +1,1 @@
+import{_ as e,c as p,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const m=JSON.parse('{"title":"子宮內膜增生","description":"","frontmatter":{},"headers":[],"relativePath":"48.md","filePath":"48.md"}'),t={name:"48.md"};function i(l,a,n,s,h,d){return r(),p("div",null,a[0]||(a[0]=[o("",100)]))}const u=e(t,[["render",i]]);export{m as __pageData,u as default};

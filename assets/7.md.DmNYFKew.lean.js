@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as r,ae as t}from"./chunks/framework.Dh1jimFm.js";const m=JSON.parse('{"title":"Coronary artery disease","description":"","frontmatter":{},"headers":[],"relativePath":"7.md","filePath":"7.md"}'),o={name:"7.md"};function l(n,a,p,s,h,c){return r(),i("div",null,a[0]||(a[0]=[t("",475)]))}const u=e(o,[["render",l]]);export{m as __pageData,u as default};

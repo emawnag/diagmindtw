@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.Dh1jimFm.js";const m=JSON.parse('{"title":"小兒腎臟學疾病","description":"","frontmatter":{},"headers":[],"relativePath":"31.md","filePath":"31.md"}'),i={name:"31.md"};function n(l,a,h,s,d,u){return t(),r("div",null,a[0]||(a[0]=[o("",9)]))}const b=e(i,[["render",n]]);export{m as __pageData,b as default};

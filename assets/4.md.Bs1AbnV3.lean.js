@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,ae as p}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"EKG","description":"","frontmatter":{},"headers":[],"relativePath":"4.md","filePath":"4.md"}'),l={name:"4.md"};function t(o,a,h,d,n,c){return i(),r("div",null,a[0]||(a[0]=[p("",373)]))}const b=e(l,[["render",t]]);export{u as __pageData,b as default};

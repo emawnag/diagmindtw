@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const p=JSON.parse('{"title":"胚胎學","description":"","frontmatter":{},"headers":[],"relativePath":"47.md","filePath":"47.md"}'),l={name:"47.md"};function n(i,a,s,h,u,c){return r(),t("div",null,a[0]||(a[0]=[o("",25)]))}const m=e(l,[["render",n]]);export{p as __pageData,m as default};

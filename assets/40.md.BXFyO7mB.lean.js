@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as n,ae as t}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"先天腹壁異常","description":"","frontmatter":{},"headers":[],"relativePath":"40.md","filePath":"40.md"}'),i={name:"40.md"};function o(s,e,l,h,d,c){return n(),r("div",null,e[0]||(e[0]=[t("",5)]))}const m=a(i,[["render",o]]);export{u as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as i,ae as t}from"./chunks/framework.Dh1jimFm.js";const c=JSON.parse('{"title":"藥物疹","description":"","frontmatter":{},"headers":[],"relativePath":"62.md","filePath":"62.md"}'),p={name:"62.md"};function o(n,a,l,s,h,d){return i(),r("div",null,a[0]||(a[0]=[t("",113)]))}const m=e(p,[["render",o]]);export{c as __pageData,m as default};

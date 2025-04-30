@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const _=JSON.parse('{"title":"休克","description":"","frontmatter":{},"headers":[],"relativePath":"21.md","filePath":"21.md"}'),i={name:"21.md"};function d(h,a,l,n,s,p){return r(),t("div",null,a[0]||(a[0]=[o("",17)]))}const u=e(i,[["render",d]]);export{_ as __pageData,u as default};

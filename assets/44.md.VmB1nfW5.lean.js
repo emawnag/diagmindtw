@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,ae as s}from"./chunks/framework.Dh1jimFm.js";const p=JSON.parse('{"title":"腦及神經疾病","description":"","frontmatter":{},"headers":[],"relativePath":"44.md","filePath":"44.md"}'),r={name:"44.md"};function n(i,a,_,c,l,d){return t(),o("div",null,a[0]||(a[0]=[s("",5)]))}const m=e(r,[["render",n]]);export{p as __pageData,m as default};

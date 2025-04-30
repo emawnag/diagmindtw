@@ -1,0 +1,1 @@
+import{_ as a,c as o,o as t,ae as r}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"兒童過敏免疫風濕疾病","description":"","frontmatter":{},"headers":[],"relativePath":"34.md","filePath":"34.md"}'),i={name:"34.md"};function l(n,e,c,s,d,h){return t(),o("div",null,e[0]||(e[0]=[r("",7)]))}const _=a(i,[["render",l]]);export{u as __pageData,_ as default};

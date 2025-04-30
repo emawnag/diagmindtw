@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const y=JSON.parse('{"title":"頸部腫塊[CS]","description":"","frontmatter":{},"headers":[],"relativePath":"37.md","filePath":"37.md"}'),l={name:"37.md"};function h(i,a,n,s,c,d){return r(),e("div",null,a[0]||(a[0]=[o("",8)]))}const p=t(l,[["render",h]]);export{y as __pageData,p as default};

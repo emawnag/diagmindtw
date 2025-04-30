@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const _=JSON.parse('{"title":"Syncope","description":"","frontmatter":{},"headers":[],"relativePath":"18.md","filePath":"18.md"}'),n={name:"18.md"};function i(d,a,h,l,p,s){return r(),t("div",null,a[0]||(a[0]=[o("",17)]))}const u=e(n,[["render",i]]);export{_ as __pageData,u as default};

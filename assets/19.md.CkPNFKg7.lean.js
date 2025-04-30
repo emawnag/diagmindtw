@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.Dh1jimFm.js";const _=JSON.parse('{"title":"Cardiac neoplasm","description":"","frontmatter":{},"headers":[],"relativePath":"19.md","filePath":"19.md"}'),i={name:"19.md"};function d(l,a,n,h,s,c){return t(),r("div",null,a[0]||(a[0]=[o("",17)]))}const m=e(i,[["render",d]]);export{_ as __pageData,m as default};

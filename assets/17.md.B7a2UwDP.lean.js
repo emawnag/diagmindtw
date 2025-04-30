@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Dh1jimFm.js";const _=JSON.parse('{"title":"Endocarditis","description":"","frontmatter":{},"headers":[],"relativePath":"17.md","filePath":"17.md"}'),i={name:"17.md"};function d(n,a,h,l,s,c){return r(),t("div",null,a[0]||(a[0]=[o("",17)]))}const u=e(i,[["render",d]]);export{_ as __pageData,u as default};

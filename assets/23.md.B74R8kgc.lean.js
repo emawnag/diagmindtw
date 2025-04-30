@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as m,ae as r}from"./chunks/framework.Dh1jimFm.js";const g=JSON.parse('{"title":"圖庫資源","description":"","frontmatter":{},"headers":[],"relativePath":"23.md","filePath":"23.md"}'),o={name:"23.md"};function i(n,e,s,p,l,d){return m(),t("div",null,e[0]||(e[0]=[r("",3)]))}const h=a(o,[["render",i]]);export{g as __pageData,h as default};
