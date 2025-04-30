@@ -24,7 +24,7 @@ jobs:
       - name: Prepare VitePress config
         run: |
           mkdir -p .vitepress
-          cp config.mts .vitepress/config.ts
+          cp config.mts .vitepress/config.mts
 
       - name: Build VitePress site
         run: npx vitepress build
