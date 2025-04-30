@@ -12,6 +12,7 @@ import fetch from 'node-fetch';
 
 const API_URL = 'https://diagmindtw.com/sql_read_api/docxFrontEndRender2sqlRead.php';
 const API_TOKEN = process.env.SQL_API_KEY;
+console.log('API_TOKEN:', API_TOKEN);
 
 async function fetchTopics() {
   // 先取得總數
