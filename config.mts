@@ -8,6 +8,7 @@ function org() {
   return {
     title: 'diagmindtw',
     description: '醫學國考知識庫',
+    lang: 'zh-TW',
     server: {
       cors: {
         origin: ['sip.diagmindtw.com', 'http://localhost:5173'],
