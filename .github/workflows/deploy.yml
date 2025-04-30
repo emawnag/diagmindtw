@@ -21,6 +21,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Prepare VitePress config
+        run: |
+          mkdir -p .vitepress
+          cp config.mts .vitepress/config.ts
+
       - name: Build VitePress site
         run: npx vitepress build
 
