@@ -8,8 +8,6 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    env:
-      SQL_API_KEY: ${{ secrets.SQL_API_KEY }}
 
     steps:
       - name: Checkout repository
@@ -27,7 +25,7 @@ jobs:
         run: |
           mkdir -p .vitepress
           rm *.md          
-          node genmarkdownV2.js
+          node genmarkdownV2.js ${{ secrets.SQL_API_KEY }}
           cp config.mts .vitepress/config.mts
 
       - name: Build VitePress site
