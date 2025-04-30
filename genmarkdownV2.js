@@ -21,16 +21,7 @@ async function fetchTopics() {
       'X-Auth-Token': API_TOKEN
     }
   });
-  let countData;
-  let rawText;
-  try {
-    rawText = await countRes.text();
-    countData = JSON.parse(rawText);
-  } catch (e) {
-    console.error('Failed to parse JSON:', e);
-    console.error('Raw response:', rawText);
-    throw e;
-  }
+  const countData = await countRes.json();
   console.log('countRes:', countData);
   if (!countRes.ok) throw new Error('Failed to fetch topic count');
   const count = countData.count;
